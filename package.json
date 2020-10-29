@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
@@ -21,9 +22,15 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
+    "overrides": [
+      {
+        "files": [
+          "src/**/*.stories.js"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
     ]
   },
   "browserslist": {
@@ -37,20 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-    
-  },
-  
-    "eslintConfig": {
-      "overrides": [
-        {
-          "files": [
-            "src/**/*.stories.js"
-          ],
-          "rules": {
-            "import/no-anonymous-default-export": "off"
-          }
-        }
-      ]
-    }
-  
+  }
 }
