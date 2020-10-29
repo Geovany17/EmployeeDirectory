@@ -1,7 +1,7 @@
 import React from "react";
-import Main from "./components/Main";
+import Main from "./components/main";
 import Wrapper from "./components/Wrapper";
-import Header from "./components/Header";
+import Header from "./components/header";
 
 function App() {
   return (
