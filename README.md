@@ -63,7 +63,7 @@ Geovany17
 
 ## Repository
 
-- [Project Repo](https://github.com/Geovany17/budgetTracker)
+- [Project Repo](https://github.com/Geovany17/EmployeeDirectory)
 
 ## Heroku
 
