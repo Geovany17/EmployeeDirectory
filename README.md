@@ -20,7 +20,7 @@ When brought back online:
 
 ### Demo for the deployed app
 
-![employeeDirectory demo](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/budgetDemo.gif)
+![employeeDirectory demo](https://github.com/Geovany17/EmployeeDirectory/blob/main/assets/demo.gif)
 
 ## Table of contents
 
