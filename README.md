@@ -4,19 +4,11 @@
 
 ## Description
 
-- This is a Budget Tracker Application, a user is able to update information while online/offline. Updated application has offline access and functionality.
+- As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
-- The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the total will be populated when brought back online.
+- An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-Offline Functionality:
-
-- Enter deposits and expenses offline
-
-When brought back online:
-
-- Offline entries added to tracker.
-
-- Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+- This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by "name" and also organize each field (Name, Email, DOB) in ascending or descending order.
 
 ### Demo for the deployed app
 
