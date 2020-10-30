@@ -20,10 +20,7 @@ When brought back online:
 
 ### Demo for the deployed app
 
-![BudgetTracker demo](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/budgetDemo.gif)
-![BudgetTracker screenshot](<https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(102).png>)
-![BudgetTracker screenshot](<https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(103).png>)
-![BudgetTracker screenshot](<https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(99).png>)
+![employeeDirectory demo](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/budgetDemo.gif)
 
 ## Table of contents
 
@@ -47,7 +44,7 @@ Run:
 
 The application will be invoked with the following command:
 
-                node server.js
+                npm start
 
 ## Licence
 
